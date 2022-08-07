@@ -13,3 +13,6 @@
 - Pouco tempo gasto em manutenção, pois os container são executados como são configurados.
 - Performance para executar as aplicações, mais __<em>performático</em>__ do que uma __Virtual Machine__.
 
+## Matrix from Hell
+
+- Complexidade de instalação e execução de diferentes projetos simultaneamente em servidores/clientes diferentes, com sistemas/versões diferentes.
