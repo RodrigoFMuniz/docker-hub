@@ -16,3 +16,14 @@
 ## Matrix from Hell
 
 - Complexidade de instalação e execução de diferentes projetos simultaneamente em servidores/clientes diferentes, com sistemas/versões diferentes.
+
+## Versões do Docker
+
+### Community Edition
+- Gratuita 
+- Funcionalidades garantidas
+
+### Enterprise Edition
+- Paga
+- Garantia maior das versões disponibilizadas
+- Suporte do time do Docker
