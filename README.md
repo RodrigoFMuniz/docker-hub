@@ -11,5 +11,5 @@
 
 - Proporciona velocidade na configuração do ambiente dev.
 - Pouco tempo gasto em manutenção, pois os container são executados como são configurados.
-- Performance para executar as aplicações, mais __<em>performático</em> do que uma __Virtual Machine__.
+- Performance para executar as aplicações, mais __<em>performático</em>__ do que uma __Virtual Machine__.
 
